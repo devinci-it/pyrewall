@@ -122,3 +122,7 @@ cython_debug/
 # The actual virtual env created by pipenv is outside the project folder usually
 # but just in case:
 .pipenv/
+scratch/
+
+venv/
+venv
